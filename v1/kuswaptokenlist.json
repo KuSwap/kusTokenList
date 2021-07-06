@@ -1,7 +1,6 @@
 {
   "name": "KuSwap Menu",
-  "logoURI": "https://kuswap.finance/kusPlanet.ong",
-  "keywords": ["kuswap", "default"], 
+  "keywords": ["kuswap", "default"],
   "timestamp": "2021-06-26T23:57:10.982Z",
   "version": {
     "major": 2,
@@ -11,6 +10,14 @@
   "tags": {},
   "logoURI": "ipfs://QmXxZej8PFNhdyp5wBNEhF4P3a1PUeSYoFxkYb7MNFr1iM",
   "tokens": [
+    {
+      "address": "0xC4114A0796ff34147e8129d5f75d2452a4059a28",
+      "chainId": 321,
+      "name": "LucKoin",
+      "symbol": "LUCK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xC4114A0796ff34147e8129d5f75d2452a4059a28.png"
+    },
     {
       "address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
       "chainId": 321,
