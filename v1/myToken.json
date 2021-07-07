@@ -1,7 +1,7 @@
 {
     "name": "Reflect-Ku!",
     "website": "https://reflectku.finance",
-    "description": "Reflect-Ku! is the original Reflect Finance fork on KCC! With each transaction there is a 1% fee which is "reflected" to all holders. One of the holders is the burn address on KCC which also earns fees with every transaction, slowly burning more and more tokens overtime. This makes Reflect-Ku! deflationary in nature.",
+    "description": "Reflect-Ku! is the original Reflect Finance fork on KCC! With each transaction there is a 1% fee which is 'reflected' to all holders. This is called passive frictionless yield generation. One of the holders is the burn address on KCC which also earns fees with every transaction, slowly burning more and more tokens overtime. This makes Reflect-Ku! deflationary in nature.",
     "explorer": "https://explorer.kcc.io/en/token/0x232f5eb1936a6f17e306d85e285bffbc4c44aa65",
     "type": "KRC20",
     "symbol": "RFK",
