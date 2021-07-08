@@ -42,14 +42,6 @@
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
-    },
-    {
-      "address": "0x00876418EBace35AB779060b14C91442881D408A",
-      "chainId": 321,
-      "name": "KuBeans",
-      "symbol": "KUBEANS",
-      "decimals": 18,
-      "logoURI": "https://kubeans.club/logo512.png"
     }
   ]
 }
