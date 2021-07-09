@@ -36,6 +36,14 @@
       "logoURI": "https://pbs.twimg.com/profile_images/1387416792126078976/Mw3Sts7T_400x400.png"
     },
     {
+      "address": "0x7d6d0aa59fcab13140604dc122bf310bd72c00a1",
+      "chainId": 321,
+      "name": "KuShiba Inu",
+      "symbol": "KUSHIB",
+      "decimals": 18,
+      "logoURI": "https://drive.google.com/file/d/1guE-s4RDQ9PNoIf43t2IlRhxyuh9LB0N/view?usp=sharing"
+    },
+    {
       "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
       "chainId": 321,
       "name": "KCC-Peg USD Coin",
