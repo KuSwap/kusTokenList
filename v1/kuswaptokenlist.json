@@ -36,6 +36,14 @@
       "logoURI": "https://pbs.twimg.com/profile_images/1387416792126078976/Mw3Sts7T_400x400.png"
     },
     {
+      "address": "0x75f6ec59dbdfdade9ba5af7e3b5b8e8cd8088abf",
+      "chainId": 321,
+      "name": "Kukaburra",
+      "symbol": "🐦KUKA",
+      "decimals": 9,
+      "logoURI": "https://ipfs.kuswap.finance/ipfs/QmSR2wLY5rW7sDj889on51CzihdLreBWvFZG2MDg5XtddM/Kukuburra.png"
+    },
+    {
       "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
       "chainId": 321,
       "name": "KCC-Peg USD Coin",
