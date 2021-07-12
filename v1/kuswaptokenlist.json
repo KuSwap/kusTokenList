@@ -11,6 +11,14 @@
   "logoURI": "ipfs://QmXxZej8PFNhdyp5wBNEhF4P3a1PUeSYoFxkYb7MNFr1iM",
   "tokens": [
     {
+      "address": "0x91aCbFc784C73777d8013db48afC2D698a4AE751",
+      "chainId": 321,
+      "name": "LuckyONE",
+      "symbol": "LONE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0x91aCbFc784C73777d8013db48afC2D698a4AE751.png"
+    },
+    {
       "address": "0xC4114A0796ff34147e8129d5f75d2452a4059a28",
       "chainId": 321,
       "name": "LucKoin",
