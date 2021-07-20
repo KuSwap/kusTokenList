@@ -1,47 +1,61 @@
 {
-  "name": "KuSwap Menu",
-  "logoURI": "https://kuswap.finance/kusPlanet.ong",
-  "keywords": ["kuswap", "default"], 
-  "timestamp": "2021-06-26T23:57:10.982Z",
-  "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 0
-  },
-  "tags": {},
-  "logoURI": "ipfs://QmXxZej8PFNhdyp5wBNEhF4P3a1PUeSYoFxkYb7MNFr1iM",
-  "tokens": [
-    {
-      "address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
-      "chainId": 321,
-      "name": "KuSwap",
-      "symbol": "KUS",
-      "decimals": 18,
-      "logoURI": "https://ipfs.kuswap.finance/ipfs/QmUnHUmCbPiV2YuxYAHWFtNEs6mdRBZGqw5CZZRNv6YfN6/Kus.png"
-    },
-    {
-      "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
-      "chainId": 321,
-      "name": "Wrapped KCS",
-      "symbol": "WKCS",
-      "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1209988032578895873/PlNiLqlN_400x400.png"
-    },
-    {
-      "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
-      "chainId": 321,
-      "name": "KCC-Peg Tether USD",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1387416792126078976/Mw3Sts7T_400x400.png"
-    },
-    {
-      "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
-      "chainId": 321,
-      "name": "KCC-Peg USD Coin",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
-    }
-  ]
+	"name": "KuSwap Menu",
+	"keywords": ["kuswap", "default"],
+	"timestamp": "2021-06-26T23:57:10.982Z",
+	"version": {
+		"major": 2,
+		"minor": 0,
+		"patch": 0
+	},
+	"tags": {},
+	"logoURI": "ipfs://QmXxZej8PFNhdyp5wBNEhF4P3a1PUeSYoFxkYb7MNFr1iM",
+	"tokens": [{
+			"address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
+			"chainId": 321,
+			"name": "KuSwap",
+			"symbol": "KUS",
+			"decimals": 18,
+			"logoURI": "https://ipfs.kuswap.finance/ipfs/QmUnHUmCbPiV2YuxYAHWFtNEs6mdRBZGqw5CZZRNv6YfN6/Kus.png"
+		},
+		{
+			"address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+			"chainId": 321,
+			"name": "Wrapped KCS",
+			"symbol": "WKCS",
+			"decimals": 18,
+			"logoURI": "https://pbs.twimg.com/profile_images/1209988032578895873/PlNiLqlN_400x400.png"
+		},
+		{
+			"address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+			"chainId": 321,
+			"name": "KCC-Peg Tether USD",
+			"symbol": "USDT",
+			"decimals": 18,
+			"logoURI": "https://pbs.twimg.com/profile_images/1387416792126078976/Mw3Sts7T_400x400.png"
+		},
+		{
+			"address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+			"chainId": 321,
+			"name": "KCC-Peg USD Coin",
+			"symbol": "USDC",
+			"decimals": 18,
+			"logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+		},
+		{
+			"address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+			"chainId": 321,
+			"name": "Binance-Peg BNB Token",
+			"symbol": "BNB",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+		},
+		{
+			"address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+			"chainId": 321,
+			"name": "Binance-Peg BUSD Token",
+			"symbol": "BUSD",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
+		}
+	]
 }
