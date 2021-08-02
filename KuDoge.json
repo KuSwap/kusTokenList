@@ -1,0 +1,11 @@
+{
+    "name": "KuDoge",
+    "website": "https://kudoge.io/",
+    "description": "KuDoge is the first proper Doge token of the KCC",
+    "explorer": "https://explorer.kcc.io/token/0x6665D66aFA48F527d86623723342CfA258cB8666",
+    "type": "KRC20",
+    "symbol": "KuDo",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x6665D66aFA48F527d86623723342CfA258cB8666"
+}
