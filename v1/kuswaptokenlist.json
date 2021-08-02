@@ -56,6 +56,14 @@
 			"symbol": "BUSD",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
+		},
+		   {
+			"address": "0x516f50028780b60e2fe08efa853124438f9e46a7",
+			"chainId": 321,
+			"name": "Kukafe Finance",
+			"symbol": "KAFE",
+			"decimals": 18,
+			"logoURI": "https://kukafe.mypinata.cloud/ipfs/QmeHA3uJA2QY4GXZqB65EJZA5xhmPCPVLMckB7raomWoiW"
 		}
 	]
 }
