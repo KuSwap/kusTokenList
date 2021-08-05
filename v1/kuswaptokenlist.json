@@ -200,7 +200,7 @@
       "address": "0x73b6086955c820370A18002F60E9b51FB67d7e1A",
       "chainId": 321,
       "name": "SHIBA INU",
-      "symbol": "shib",
+      "symbol": "SHIB",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/shib.png"
     },
@@ -208,7 +208,7 @@
       "address": "0x4500E16dA66b99e0C55D7B46EBBD59bc413BA171",
       "chainId": 321,
       "name": "Curve DAO Token",
-      "symbol": "crv",
+      "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/crv.png"
     },
@@ -224,7 +224,7 @@
       "address": "0xE76e97C157658004eE22e01C03a5e21A4655A2Fd",
       "chainId": 321,
       "name": "Aave Token",
-      "symbol": "aave",
+      "symbol": "AAVE",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/aave.png"
     },
@@ -232,7 +232,7 @@
       "address": "0x8724F9FB7B3f1bb6f2c90B3Ad3Fd6B3c20A06429",
       "chainId": 321,
       "name": "DODO",
-      "symbol": "dodo",
+      "symbol": "DODO",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/dodo.png"
     },
@@ -240,7 +240,7 @@
       "address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
       "chainId": 321,
       "name": "Polygon",
-      "symbol": "matic",
+      "symbol": "MATIC",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/matic.png"
     },
@@ -248,7 +248,7 @@
       "address": "0xC19a5caCC2bb68Ff09f2Fcc695F31493A039Fa5e",
       "chainId": 321,
       "name": "Decentraland",
-      "symbol": "mana",
+      "symbol": "MANA",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/mana.png"
     },
@@ -256,7 +256,7 @@
       "address": "0x79f3244F3FFd7500A31a90Bb83C7D56649c2C7C5",
       "chainId": 321,
       "name": "1INCH Token",
-      "symbol": "1inch",
+      "symbol": "1INCH",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/1inch.png"
     },
@@ -264,7 +264,7 @@
       "address": "0xFC31366Be1795c1Ff444b9fBF55759733aD4d26D",
       "chainId": 321,
       "name": "Balancer",
-      "symbol": "bal",
+      "symbol": "BAL",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/bal.png"
     },
@@ -272,7 +272,7 @@
       "address": "0x621C1E8610e4B9b7fc9F043203C008EDe52E92F5",
       "chainId": 321,
       "name": "Telcoin",
-      "symbol": "tel",
+      "symbol": "TEL",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/tel.png"
     },
@@ -280,7 +280,7 @@
       "address": "0x652D253b7Ca91810A4a05ACFc39729387c5090C0",
       "chainId": 321,
       "name": "Crypto.com Coin",
-      "symbol": "cro",
+      "symbol": "CRO",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/cro.png"
     }
