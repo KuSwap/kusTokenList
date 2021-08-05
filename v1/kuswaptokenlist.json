@@ -1,61 +1,269 @@
 {
-	"name": "KuSwap Menu",
-	"keywords": ["kuswap", "default"],
-	"timestamp": "2021-06-26T23:57:10.982Z",
-	"version": {
-		"major": 2,
-		"minor": 0,
-		"patch": 0
-	},
-	"tags": {},
-	"logoURI": "ipfs://QmXxZej8PFNhdyp5wBNEhF4P3a1PUeSYoFxkYb7MNFr1iM",
-	"tokens": [{
-			"address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
-			"chainId": 321,
-			"name": "KuSwap",
-			"symbol": "KUS",
-			"decimals": 18,
-			"logoURI": "https://ipfs.kuswap.finance/ipfs/QmUnHUmCbPiV2YuxYAHWFtNEs6mdRBZGqw5CZZRNv6YfN6/Kus.png"
-		},
-		{
-			"address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
-			"chainId": 321,
-			"name": "Wrapped KCS",
-			"symbol": "WKCS",
-			"decimals": 18,
-			"logoURI": "https://pbs.twimg.com/profile_images/1209988032578895873/PlNiLqlN_400x400.png"
-		},
-		{
-			"address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
-			"chainId": 321,
-			"name": "KCC-Peg Tether USD",
-			"symbol": "USDT",
-			"decimals": 18,
-			"logoURI": "https://pbs.twimg.com/profile_images/1387416792126078976/Mw3Sts7T_400x400.png"
-		},
-		{
-			"address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
-			"chainId": 321,
-			"name": "KCC-Peg USD Coin",
-			"symbol": "USDC",
-			"decimals": 18,
-			"logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
-		},
-		{
-			"address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
-			"chainId": 321,
-			"name": "Binance-Peg BNB Token",
-			"symbol": "BNB",
-			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
-		},
-		{
-			"address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-			"chainId": 321,
-			"name": "Binance-Peg BUSD Token",
-			"symbol": "BUSD",
-			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
-		}
-	]
+  "name": "KuSwap Menu",
+  "logoURI": "https://kuswap.finance/kusPlanet.ong",
+  "keywords": ["kuswap", "ku", "swap"],
+  "timestamp": "2020-26-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
+      "chainId": 321,
+      "name": "KuSwap",
+      "symbol": "KUS",
+      "decimals": 18,
+      "logoURI": "https://ipfs.kuswap.finance/ipfs/QmUnHUmCbPiV2YuxYAHWFtNEs6mdRBZGqw5CZZRNv6YfN6/Kus.png"
+    },
+    {
+      "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+      "chainId": 321,
+      "name": "Wrapped KCS",
+      "symbol": "WKCS",
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/profile_images/1209988032578895873/PlNiLqlN_400x400.png"
+    },
+    {
+      "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+      "chainId": 321,
+      "name": "KCC-Peg Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/profile_images/1387416792126078976/Mw3Sts7T_400x400.png"
+    },
+    {
+      "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+      "chainId": 321,
+      "name": "KCC-Peg USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+    },
+    {
+      "address": "0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1",
+      "chainId": 321,
+      "name": "KCC-Peg ETH Coin",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1.png"
+    },
+    {
+      "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+      "chainId": 321,
+      "name": "DAI Coin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xc9baa8cfdde8e328787e29b4b078abf2dadc2055.png"
+    },
+    {
+      "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+      "chainId": 321,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0.png"
+    },
+    {
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "chainId": 321,
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.png"
+    },
+    {
+      "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+      "chainId": 321,
+      "name": "Wrapped BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C.png"
+    },
+    {
+      "address": "0xEe58E4D62b10A92dB1089d4D040B759C28aE16Cd",
+      "chainId": 321,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/uni.png"
+    },
+    {
+      "address": "0x47841910329aaa6b88D5e9DcdE9000195151dc72",
+      "chainId": 321,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/link.png"
+    },
+    {
+      "address": "0xb49dd3eDB98FBe82A01DFcb556Cd016964baf5A3",
+      "chainId": 321,
+      "name": "The Graph",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/grt.png"
+    },
+    {
+      "address": "0xdE81028C743f5304fe2cdEfac588f572d629a687",
+      "chainId": 321,
+      "name": "MKR",
+      "symbol": "Maker",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/mkr.png"
+    },
+    {
+      "address": "0x791630C11c7159A748d8c2267a66780B3DDC40a7",
+      "chainId": 321,
+      "name": "QNT",
+      "symbol": "Quant",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/qnt.png"
+    },
+    {
+      "address": "0x16c4106966cE30e06E806A7c40eEFb46d84cE7e5",
+      "chainId": 321,
+      "name": "COMP",
+      "symbol": "Compound",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/comp.png"
+    },
+    {
+      "address": "0x31965b5c9c55f5579eb49F4b3AcC59aA10a7B98E",
+      "chainId": 321,
+      "name": "SNX",
+      "symbol": "Synthetix",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/snx.png"
+    },
+    {
+      "address": "0x6E8ce0519B7e4d691BaCE464099547E5fC17679c",
+      "chainId": 321,
+      "name": "CHZ",
+      "symbol": "Chiliz",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/chz.png"
+    },
+    {
+      "address": "0xD17027b85Abf02721F953EE528721A980fa58941",
+      "chainId": 321,
+      "name": "TUSD",
+      "symbol": "TrueUSD",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/tusd.png"
+    },
+    {
+      "address": "0x6e2D990C8e718E7b6D86ed08eBf0FF2dEc05253B",
+      "chainId": 321,
+      "name": "ENJ",
+      "symbol": "Enjin Coin",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/enj.png"
+    },
+    {
+      "address": "0xdfa3Ef49d357c6b0B2DfBB88701af2b7A053fD0A",
+      "chainId": 321,
+      "name": "YFI",
+      "symbol": "yearn.finance",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/yfi.png"
+    },
+    {
+      "address": "0xb7A18bd55e8E3E2262d7c8Ee7b4DD9B216Df0Faf",
+      "chainId": 321,
+      "name": "NEXO",
+      "symbol": "Nexo",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/nexo.png"
+    },
+    {
+      "address": "0x0bF46C86Ce3B904660aE85677EaA20B0C1b24064",
+      "chainId": 321,
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/bat.png"
+    },
+    {
+      "address": "0x69a7169F9Da9BBa04b982e49Ffd8d6a16c70c590",
+      "chainId": 321,
+      "name": "Paxos Standard",
+      "symbol": "PAX",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/pax.png"
+    },
+    {
+      "address": "0xBEc1e1009CE00ECf7F16372451Ac849b39C32897",
+      "chainId": 321,
+      "name": "HUSD",
+      "symbol": "HUSD",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/husd.png"
+    },
+    {
+      "address": "0x73b6086955c820370A18002F60E9b51FB67d7e1A",
+      "chainId": 321,
+      "name": "SHIBA INU",
+      "symbol": "shib",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/shib.png"
+    },
+    {
+      "address": "0x4500E16dA66b99e0C55D7B46EBBD59bc413BA171",
+      "chainId": 321,
+      "name": "Curve DAO Token",
+      "symbol": "crv",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/crv.png"
+    },
+    {
+      "address": "0xE0a60890BB7F9250089455620063fb6fe4DC159a",
+      "chainId": 321,
+      "name": "SushiSwap",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/sushi.png"
+    },
+    {
+      "address": "0xE76e97C157658004eE22e01C03a5e21A4655A2Fd",
+      "chainId": 321,
+      "name": "Aave Token",
+      "symbol": "aave",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/aave.png"
+    },
+    {
+      "address": "0x8724F9FB7B3f1bb6f2c90B3Ad3Fd6B3c20A06429",
+      "chainId": 321,
+      "name": "DODO",
+      "symbol": "dodo",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/dodo.png"
+    },
+    {
+      "address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
+      "chainId": 321,
+      "name": "Polygon",
+      "symbol": "matic",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/matic.png"
+    },
+    {
+      "address": "0xC19a5caCC2bb68Ff09f2Fcc695F31493A039Fa5e",
+      "chainId": 321,
+      "name": "Decentraland",
+      "symbol": "mana",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/mana.png"
+    },
+    {
+      "address": "0x79f3244F3FFd7500A31a90Bb83C7D56649c2C7C5",
+      "chainId": 321,
+      "name": "1INCH Token",
+      "symbol": "1inch",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/1inch.png"
+    }
+  ],
+  "version": {
+    "major": 87,
+    "minor": 0,
+    "patch": 0
+  }
 }
