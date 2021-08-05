@@ -18,7 +18,7 @@
       "name": "Wrapped KCS",
       "symbol": "WKCS",
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1209988032578895873/PlNiLqlN_400x400.png"
+      "logoURI": "https://kuswap.finance/kcs.png"
     },
     {
       "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
@@ -37,7 +37,7 @@
       "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
     },
     {
-      "address": "0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1",
+      "address": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
       "chainId": 321,
       "name": "KCC-Peg ETH Coin",
       "symbol": "ETH",
@@ -45,7 +45,7 @@
       "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1.png"
     },
     {
-      "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
       "chainId": 321,
       "name": "DAI Coin",
       "symbol": "DAI",
@@ -53,7 +53,7 @@
       "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xc9baa8cfdde8e328787e29b4b078abf2dadc2055.png"
     },
     {
-      "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+      "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
       "chainId": 321,
       "name": "Bitcoin",
       "symbol": "BTC",
@@ -61,7 +61,7 @@
       "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0.png"
     },
     {
-      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
       "chainId": 321,
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
@@ -69,7 +69,7 @@
       "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.png"
     },
     {
-      "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
       "chainId": 321,
       "name": "Wrapped BNB",
       "symbol": "BNB",
@@ -103,64 +103,64 @@
     {
       "address": "0xdE81028C743f5304fe2cdEfac588f572d629a687",
       "chainId": 321,
-      "name": "MKR",
-      "symbol": "Maker",
+      "name": "Maker",
+      "symbol": "MKR",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/mkr.png"
     },
     {
       "address": "0x791630C11c7159A748d8c2267a66780B3DDC40a7",
       "chainId": 321,
-      "name": "QNT",
-      "symbol": "Quant",
+      "name": "Quant",
+      "symbol": "QNT",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/qnt.png"
     },
     {
       "address": "0x16c4106966cE30e06E806A7c40eEFb46d84cE7e5",
       "chainId": 321,
-      "name": "COMP",
-      "symbol": "Compound",
+      "name": "Compound",
+      "symbol": "COMP",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/comp.png"
     },
     {
       "address": "0x31965b5c9c55f5579eb49F4b3AcC59aA10a7B98E",
       "chainId": 321,
-      "name": "SNX",
-      "symbol": "Synthetix",
+      "name": "Synthetix",
+      "symbol": "SNX",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/snx.png"
     },
     {
       "address": "0x6E8ce0519B7e4d691BaCE464099547E5fC17679c",
       "chainId": 321,
-      "name": "CHZ",
-      "symbol": "Chiliz",
+      "name": "Chiliz",
+      "symbol": "CHZ",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/chz.png"
     },
     {
       "address": "0xD17027b85Abf02721F953EE528721A980fa58941",
       "chainId": 321,
-      "name": "TUSD",
-      "symbol": "TrueUSD",
+      "name": "TrueUSD",
+      "symbol": "TUSD",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/tusd.png"
     },
     {
       "address": "0x6e2D990C8e718E7b6D86ed08eBf0FF2dEc05253B",
       "chainId": 321,
-      "name": "ENJ",
-      "symbol": "Enjin Coin",
+      "name": "Enjin Coin",
+      "symbol": "ENJ",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/enj.png"
     },
     {
       "address": "0xdfa3Ef49d357c6b0B2DfBB88701af2b7A053fD0A",
       "chainId": 321,
-      "name": "YFI",
-      "symbol": "yearn.finance",
+      "name": "yearn.finance",
+      "symbol": "YFI",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/yfi.png"
     },
