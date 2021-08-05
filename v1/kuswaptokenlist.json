@@ -283,6 +283,14 @@
       "symbol": "CRO",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/cro.png"
+    },
+    {
+      "address": "0x4c9fa6297D3413FbbE7bA935e14022d0e5a39DC7",
+      "chainId": 321,
+      "name": "Kucino Casino",
+      "symbol": "KUCINO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kucino/media/main/0x4c9fa6297D3413FbbE7bA935e14022d0e5a39DC7.png"
     }
   ],
   "version": {
