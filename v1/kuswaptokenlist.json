@@ -259,6 +259,30 @@
       "symbol": "1inch",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/1inch.png"
+    },
+    {
+      "address": "0xFC31366Be1795c1Ff444b9fBF55759733aD4d26D",
+      "chainId": 321,
+      "name": "Balancer",
+      "symbol": "bal",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/bal.png"
+    },
+    {
+      "address": "0x621C1E8610e4B9b7fc9F043203C008EDe52E92F5",
+      "chainId": 321,
+      "name": "Telcoin",
+      "symbol": "tel",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/tel.png"
+    },
+    {
+      "address": "0x652D253b7Ca91810A4a05ACFc39729387c5090C0",
+      "chainId": 321,
+      "name": "Crypto.com Coin",
+      "symbol": "cro",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/cro.png"
     }
   ],
   "version": {
