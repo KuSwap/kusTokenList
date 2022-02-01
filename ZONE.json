@@ -1,0 +1,11 @@
+{
+    "name": "Twilight ZONE",
+    "website": "https://twilightzone.finance",
+    "description": "The first decentralized reserve currency on KCC",
+    "explorer": "https://explorer.kcc.io/en/token/0x32930590244e31a9e4bbda8ab743539af62f3c5a",
+    "type": "KRC20",
+    "symbol": "ZONE",
+    "decimals": 9,
+    "status": "active",
+    "address": "0x32930590244e31a9e4bbda8ab743539af62f3c5a"    
+}
