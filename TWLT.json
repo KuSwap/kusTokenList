@@ -1,0 +1,11 @@
+{
+    "name": "Twilight",
+    "website": "https://twilightzone.finance",
+    "description": "Wrapped Staked ZONE",
+    "explorer": "https://explorer.kcc.io/en/token/0x905bB6419948455847bEF285485495fb570973b0",
+    "type": "KRC20",
+    "symbol": "TWLT",
+    "decimals": 12,
+    "status": "active",
+    "address": "0x905bB6419948455847bEF285485495fb570973b0"    
+}
