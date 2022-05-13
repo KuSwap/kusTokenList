@@ -292,6 +292,12 @@
       "decimals": 18,
       "logoURI": "https://github.com/NEST-Protocol/kusTokenList/blob/2abeab6cf6471e0cc16aab7fe862c9b0088cdd7b/0x98f8669F6481EbB341B522fCD3663f79A3d1A6A7.png?raw=true"
     }
+    "address": "0x44283c3ad11518ecf035bb9946c539c533ec6b22",
+      "chainId": 321,
+      "name": "Light DeFi",
+      "symbol": "LIGHT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8a9f1ef228c2d8ea5e8b020058beb32e3add8495/blockchains/smartchain/assets/0x842668E2B9A73240aBF6532DEdC89c9c3e050C98/logo.png"
   ],
   "version": {
     "major": 87,
