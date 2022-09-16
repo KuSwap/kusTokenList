@@ -10,7 +10,7 @@
       "name": "KuSwap",
       "symbol": "KUS",
       "decimals": 18,
-      "logoURI": "https://ipfs.kuswap.finance/ipfs/QmUnHUmCbPiV2YuxYAHWFtNEs6mdRBZGqw5CZZRNv6YfN6/Kus.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14.png"
     },
     {
       "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
@@ -26,7 +26,7 @@
       "name": "KCC-Peg Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1387416792126078976/Mw3Sts7T_400x400.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48.png"
     },
     {
       "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
@@ -42,7 +42,7 @@
       "name": "KCC-Peg ETH Coin",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1.png"
     },
     {
       "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
@@ -50,15 +50,23 @@
       "name": "DAI Coin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xc9baa8cfdde8e328787e29b4b078abf2dadc2055.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055.png"
     },
     {
       "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
       "chainId": 321,
-      "name": "Bitcoin",
-      "symbol": "BTC",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0.png"
+    },
+    {
+      "address": "0xfA93C12Cd345c658bc4644D1D4E1B9615952258C",
+      "chainId": 321,
+      "name": "KCC-Peg BTCK Token",
+      "symbol": "BTCK",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xfA93C12Cd345c658bc4644D1D4E1B9615952258C.png"
     },
     {
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
@@ -66,7 +74,23 @@
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.png"
+    },
+    {
+      "address": "0x524D01C6c7EC49682f40861a5F8c48932882E85e",
+      "chainId": 321,
+      "name": "Kardia-Crystals",
+      "symbol": "CRYSTAL",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x524D01C6c7EC49682f40861a5F8c48932882E85e.png"
+    },
+    {
+      "address": "0xE84dE7b92007976C3Ba48Cd15c63e32B9d466071",
+      "chainId": 321,
+      "name": "Golden Acorn",
+      "symbol": "GOLDENACORN",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xE84dE7b92007976C3Ba48Cd15c63e32B9d466071.png"
     },
     {
       "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
@@ -74,7 +98,7 @@
       "name": "Wrapped BNB",
       "symbol": "BNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C.png"
     },
     {
       "address": "0xEe58E4D62b10A92dB1089d4D040B759C28aE16Cd",
@@ -93,52 +117,20 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/link.png"
     },
     {
+      "address": "0x6665D66aFA48F527d86623723342CfA258cB8666",
+      "chainId": 321,
+      "name": "KuDoge",
+      "symbol": "KuDo",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x6665D66aFA48F527d86623723342CfA258cB8666.png"
+    },
+    {
       "address": "0xb49dd3eDB98FBe82A01DFcb556Cd016964baf5A3",
       "chainId": 321,
       "name": "The Graph",
       "symbol": "GRT",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/grt.png"
-    },
-    {
-      "address": "0xdE81028C743f5304fe2cdEfac588f572d629a687",
-      "chainId": 321,
-      "name": "Maker",
-      "symbol": "MKR",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/mkr.png"
-    },
-    {
-      "address": "0x791630C11c7159A748d8c2267a66780B3DDC40a7",
-      "chainId": 321,
-      "name": "Quant",
-      "symbol": "QNT",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/qnt.png"
-    },
-    {
-      "address": "0x16c4106966cE30e06E806A7c40eEFb46d84cE7e5",
-      "chainId": 321,
-      "name": "Compound",
-      "symbol": "COMP",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/comp.png"
-    },
-    {
-      "address": "0x31965b5c9c55f5579eb49F4b3AcC59aA10a7B98E",
-      "chainId": 321,
-      "name": "Synthetix",
-      "symbol": "SNX",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/snx.png"
-    },
-    {
-      "address": "0x6E8ce0519B7e4d691BaCE464099547E5fC17679c",
-      "chainId": 321,
-      "name": "Chiliz",
-      "symbol": "CHZ",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/chz.png"
     },
     {
       "address": "0xD17027b85Abf02721F953EE528721A980fa58941",
@@ -149,52 +141,12 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/tusd.png"
     },
     {
-      "address": "0x6e2D990C8e718E7b6D86ed08eBf0FF2dEc05253B",
-      "chainId": 321,
-      "name": "Enjin Coin",
-      "symbol": "ENJ",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/enj.png"
-    },
-    {
-      "address": "0xdfa3Ef49d357c6b0B2DfBB88701af2b7A053fD0A",
-      "chainId": 321,
-      "name": "yearn.finance",
-      "symbol": "YFI",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/yfi.png"
-    },
-    {
-      "address": "0xb7A18bd55e8E3E2262d7c8Ee7b4DD9B216Df0Faf",
-      "chainId": 321,
-      "name": "NEXO",
-      "symbol": "Nexo",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/nexo.png"
-    },
-    {
-      "address": "0x0bF46C86Ce3B904660aE85677EaA20B0C1b24064",
-      "chainId": 321,
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/bat.png"
-    },
-    {
       "address": "0x69a7169F9Da9BBa04b982e49Ffd8d6a16c70c590",
       "chainId": 321,
       "name": "Paxos Standard",
       "symbol": "PAX",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/pax.png"
-    },
-    {
-      "address": "0xBEc1e1009CE00ECf7F16372451Ac849b39C32897",
-      "chainId": 321,
-      "name": "HUSD",
-      "symbol": "HUSD",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/husd.png"
     },
     {
       "address": "0x73b6086955c820370A18002F60E9b51FB67d7e1A",
@@ -213,28 +165,12 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/crv.png"
     },
     {
-      "address": "0xE0a60890BB7F9250089455620063fb6fe4DC159a",
-      "chainId": 321,
-      "name": "SushiSwap",
-      "symbol": "SUSHI",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/sushi.png"
-    },
-    {
       "address": "0xE76e97C157658004eE22e01C03a5e21A4655A2Fd",
       "chainId": 321,
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/aave.png"
-    },
-    {
-      "address": "0x8724F9FB7B3f1bb6f2c90B3Ad3Fd6B3c20A06429",
-      "chainId": 321,
-      "name": "DODO",
-      "symbol": "DODO",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/dodo.png"
     },
     {
       "address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
@@ -253,30 +189,6 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/mana.png"
     },
     {
-      "address": "0x79f3244F3FFd7500A31a90Bb83C7D56649c2C7C5",
-      "chainId": 321,
-      "name": "1INCH Token",
-      "symbol": "1INCH",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/1inch.png"
-    },
-    {
-      "address": "0xFC31366Be1795c1Ff444b9fBF55759733aD4d26D",
-      "chainId": 321,
-      "name": "Balancer",
-      "symbol": "BAL",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/bal.png"
-    },
-    {
-      "address": "0x621C1E8610e4B9b7fc9F043203C008EDe52E92F5",
-      "chainId": 321,
-      "name": "Telcoin",
-      "symbol": "TEL",
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/tel.png"
-    },
-    {
       "address": "0x652D253b7Ca91810A4a05ACFc39729387c5090C0",
       "chainId": 321,
       "name": "Crypto.com Coin",
@@ -285,12 +197,68 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/cro.png"
     },
     {
+      "address": "0x35b306ce024c428a182D82eBFfD6A89F83B6060E",
+      "chainId": 321,
+      "name": "KuAcorn",
+      "symbol": "KUACORN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/KuSwap/Assets/master/kuacorn-token.png"
+    },
+    {
       "address": "0x98f8669F6481EbB341B522fCD3663f79A3d1A6A7",
       "chainId": 321,
-      "name": "NEST",
+      "name": "Nest",
       "symbol": "NEST",
       "decimals": 18,
-      "logoURI": "https://github.com/NEST-Protocol/kusTokenList/blob/2abeab6cf6471e0cc16aab7fe862c9b0088cdd7b/0x98f8669F6481EbB341B522fCD3663f79A3d1A6A7.png?raw=true"
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x98f8669F6481EbB341B522fCD3663f79A3d1A6A7.png"
+    },
+    {
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "chainId": 321,
+      "name": "Multichain",
+      "symbol": "MULTI",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x9fb9a33956351cf4fa040f65a13b835a3c8764e3.png"
+    },
+    {
+      "address": "0x4c9fa6297D3413FbbE7bA935e14022d0e5a39DC7",
+      "chainId": 321,
+      "name": "Kucino Casino",
+      "symbol": "KUCINO",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x4c9fa6297D3413FbbE7bA935e14022d0e5a39DC7.png"
+    },
+    {
+      "address": "0x44283c3ad11518ecf035bb9946c539c533ec6b22",
+      "chainId": 321,
+      "name": "Light DeFi",
+      "symbol": "LIGHT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8a9f1ef228c2d8ea5e8b020058beb32e3add8495/blockchains/smartchain/assets/0x842668E2B9A73240aBF6532DEdC89c9c3e050C98/logo.png"
+    },
+    {
+      "address": "0xdae6c2a48bfaa66b43815c5548b10800919c993e",
+      "chainId": 321,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xdae6c2a48bfaa66b43815c5548b10800919c993e.png"
+    },
+    {
+      "address": "0xd55d9df77b23a7455613f2244ee4b6a45b6e2d00",
+      "chainId": 321,
+      "name": "Saffron",
+      "symbol": "SFI",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xd55d9df77b23a7455613f2244ee4b6a45b6e2d00.png"
+    },
+    {
+      "address": "0x00eE2d494258D6C5A30d6B6472A09b27121Ef451",
+      "chainId": 321,
+      "name": "sKCS",
+      "symbol": "sKCS",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x00eE2d494258D6C5A30d6B6472A09b27121Ef451.png"
     }
   ],
   "version": {
