@@ -2,7 +2,7 @@
   "name": "KuSwap Menu",
   "logoURI": "https://kuswap.finance/kusPlanet.png",
   "keywords": ["kuswap", "ku", "swap"],
-  "timestamp": "2020-26-01T00:00:00+00:00",
+  "timestamp": "2023-08-06T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
@@ -259,6 +259,14 @@
       "symbol": "sKCS",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x00eE2d494258D6C5A30d6B6472A09b27121Ef451.png"
+    },
+    {
+      "address": "0xF12f31f01380050c3c3ECbDE3670C3542E25Cd5b",
+      "chainId": 321,
+      "name": "KPY",
+      "symbol": "KPY",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xF12f31f01380050c3c3ECbDE3670C3542E25Cd5b.png"
     }
   ],
   "version": {
