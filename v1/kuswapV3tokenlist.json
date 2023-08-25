@@ -1,0 +1,109 @@
+{
+  "name": "KuSwap Menu",
+  "logoURI": "https://kuswap.finance/kusPlanet.png",
+  "keywords": ["kuswapV3", "ku", "swap"],
+  "timestamp": "2023-08-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xa24A7a40b932098E260c9B929a2035De45d401F5",
+      "chainId": 321,
+      "name": "KuSwap",
+      "symbol": "KUS",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xa24A7a40b932098E260c9B929a2035De45d401F5.png"
+    },
+    {
+      "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+      "chainId": 321,
+      "name": "Wrapped KCS",
+      "symbol": "WKCS",
+      "decimals": 18,
+      "logoURI": "https://kuswap.finance/kcs.png"
+    },
+    {
+      "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+      "chainId": 321,
+      "name": "KCC-Peg Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48.png"
+    },
+    {
+      "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+      "chainId": 321,
+      "name": "KCC-Peg USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+    },
+    {
+      "address": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+      "chainId": 321,
+      "name": "KCC-Peg ETH Coin",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1.png"
+    },
+    {
+      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+      "chainId": 321,
+      "name": "DAI Coin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055.png"
+    },
+    {
+      "address": "0xfA93C12Cd345c658bc4644D1D4E1B9615952258C",
+      "chainId": 321,
+      "name": "KCC-Peg BTCK Token",
+      "symbol": "BTCK",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xfA93C12Cd345c658bc4644D1D4E1B9615952258C.png"
+    },
+    {
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "chainId": 321,
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.png"
+    },
+    {
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+      "chainId": 321,
+      "name": "Wrapped BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C.png"
+    },
+    {
+      "address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
+      "chainId": 321,
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kcc-community/tokens-info@main/icons/matic.png"
+    },
+    {
+      "address": "0x00eE2d494258D6C5A30d6B6472A09b27121Ef451",
+      "chainId": 321,
+      "name": "sKCS",
+      "symbol": "sKCS",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x00eE2d494258D6C5A30d6B6472A09b27121Ef451.png"
+    },
+    {
+      "address": "0xF12f31f01380050c3c3ECbDE3670C3542E25Cd5b",
+      "chainId": 321,
+      "name": "KPY",
+      "symbol": "KPY",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xF12f31f01380050c3c3ECbDE3670C3542E25Cd5b.png"
+    }
+  ],
+  "version": {
+    "major": 87,
+    "minor": 0,
+    "patch": 0
+  }
+}
