@@ -93,6 +93,14 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x00eE2d494258D6C5A30d6B6472A09b27121Ef451.png"
     },
     {
+      "address": "0x3580baCe5074fec400761D1AD277C45A8c5E08e1",
+      "chainId": 321,
+      "name": "Option to buy KUS",
+      "symbol": "oKUS",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xa24A7a40b932098E260c9B929a2035De45d401F5.png"
+    },
+    {
       "address": "0xF12f31f01380050c3c3ECbDE3670C3542E25Cd5b",
       "chainId": 321,
       "name": "KPY",
