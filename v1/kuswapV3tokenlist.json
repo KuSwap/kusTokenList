@@ -5,10 +5,10 @@
   "timestamp": "2023-08-26T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0xa24A7a40b932098E260c9B929a2035De45d401F5",
+      "address": "0xFD7A0e0A629402d92Cb665d2A64fE6D22Bf08a66",
       "chainId": 321,
-      "name": "KuSwap",
-      "symbol": "KUS",
+      "name": "KuSwapv3",
+      "symbol": "KUSv3",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xa24A7a40b932098E260c9B929a2035De45d401F5.png"
     },
@@ -93,10 +93,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0x00eE2d494258D6C5A30d6B6472A09b27121Ef451.png"
     },
     {
-      "address": "0x3580baCe5074fec400761D1AD277C45A8c5E08e1",
+      "address": "0xfE7e733487c43f9CEE063aAa81700B1af5E7d24b",
       "chainId": 321,
-      "name": "Option to buy KUS",
-      "symbol": "oKUS",
+      "name": "Option to buy KUSv3",
+      "symbol": "oKUSv3",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/kuswap/kusTokenList@master/0xa24A7a40b932098E260c9B929a2035De45d401F5.png"
     },
